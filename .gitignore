@@ -1,0 +1,16 @@
+# log
+*.log
+
+# macOS
+.DS_Store
+
+# Python
+.coverage
+__pycache__/
+htmlcov/
+
+# vim
+*.swp
+
+# VS Code
+.vscode/
