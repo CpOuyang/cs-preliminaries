@@ -1,6 +1,6 @@
 # 指數 (Exponent)
 
-將任意數 $a$ 連乘 $p$ 次，稱 $a$ 為底數(base)，$p$ 為指數(exponent)，記作 $a^p$。
+將任意數 $a$ 連乘 $p$ 次，稱 $a$ 為底數(base)，$p$ 為指數(exponent)，記作 ![svg](https://latex.codecogs.com/svg.latex?a%5Ep)。
 
 ## 特性
 
