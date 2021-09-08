@@ -9,7 +9,7 @@
 - 1959 - COBOL
 - 1970 - Pascal
 
-1972 年，劃時代的語言問世：Ｃ。往後的盛事不加以羅列。[[wiki]](https://zh.wikipedia.org/wiki/程式語言歷史)
+1972 年，劃時代的語言問世：Ｃ。往後盛事不加列舉。[[wiki]](https://zh.wikipedia.org/wiki/程式語言歷史)
 
 **【問題】** 程式語言的種類多到學不完，最厲害的是誰？
 
