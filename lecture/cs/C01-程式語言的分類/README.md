@@ -23,10 +23,10 @@
 
 Java (1995) 是介於二者的混合體，它一方面將程式碼編譯為位元組碼 (Bytecode)，再直譯 Bytecode。執行 Bytecode 的軟體，稱作 JVM (Java Virtual Machine)。[[wiki]](https://zh.wikipedia.org/wiki/java)
 
-編譯語言 | 直譯語言
-- | -
-C | Python
-C++ | Javascript
-Objective-C | PHP
-C# | Ruby
-... | ...
+| 編譯語言 | 直譯語言 |
+| - | - |
+| C | Python |
+| C++ | Javascript |
+| Objective-C | PHP |
+| C# | Ruby |
+| ... | ... |
