@@ -1,6 +1,6 @@
 # Computer Science
 
-- C01-程式語言分類
+- [C01-程式語言分類](C01-程式語言分類)
 - C02-作業系統分類
 
 ---
@@ -12,8 +12,12 @@
 <!-- https://blog.gtwang.org/linux/linux-io-input-output-redirection-operators/ -->
 
 - 環境變數
+- 套件管理員 Package Manager
+- 整合開發環境 IDE
 
 ---
 
-- 套件管理員 Package Manager
-- 整合開發環境 IDE
+- 數字vs文字
+- 參數傳遞
+- 物件導向
+- 屬性與方法
