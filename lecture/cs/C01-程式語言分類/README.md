@@ -1,4 +1,4 @@
-# 程式語言的分類
+# 程式語言分類
 
 ## 歷史
 
@@ -21,7 +21,7 @@
 
 編譯語言的發明，是在程式語言發展早期，藉由編譯器的協助可以大幅縮短執行時間，增加效能。時至今日，這種優勢不能說完全消失，但已經漸漸感覺不出來。
 
-Java (1995) 是介於二者的混合體，它一方面將程式碼編譯為位元組碼 (Bytecode)，再直譯 Bytecode。執行 Bytecode 的軟體，稱作 JVM (Java Virtual Machine)。[[wiki]](https://zh.wikipedia.org/wiki/java)
+Java (1995) 是介於二者的混合體，它一方面將程式碼編譯為位元組碼 (Bytecode)，再直譯 Bytecode。執行 Bytecode 的程式，稱作 JVM (Java Virtual Machine)。[[wiki]](https://zh.wikipedia.org/wiki/java)
 
 | 編譯語言 | 直譯語言 |
 | - | - |
